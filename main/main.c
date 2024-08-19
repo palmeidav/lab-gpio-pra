@@ -2,12 +2,12 @@
 #include "pico/stdlib.h"
 #include <stdio.h>
 
-const int LED = 13;
-const int BTN = 12;
-const int LED1 = 16;
-const int LED2 = 17;
-const int LED3 = 18;
-const int LED4 = 19;
+const int LED = 18;
+const int BTN = 14;
+const int LED1 = 2;
+const int LED2 = 3;
+const int LED3 = 4;
+const int LED4 = 5;
 
 int main() {
     stdio_init_all();
